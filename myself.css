@@ -1,0 +1,41 @@
+body{
+    margin:0;
+    font-family: "Segoe UI", "Noto Sans TC", sans-serif;
+    background-color:#f5f7fb;
+    text-align:center;
+}
+
+header{
+    background-color:#4f7cff;
+    color:white;
+    padding:20px;
+}
+
+.profile{
+    margin-top:40px;
+}
+
+.profile-img{
+    width:220px;
+    height:220px;
+    object-fit:cover;
+    border-radius:50%;
+    margin-bottom:20px;
+}
+
+h2{
+    color:#333;
+}
+
+p{
+    font-size:18px;
+    color:#555;
+}
+section{
+    width:600px;
+    margin:auto;
+    background:white;
+    padding:30px;
+    border-radius:15px;
+    box-shadow:0 5px 15px rgba(0,0,0,0.1);
+}
