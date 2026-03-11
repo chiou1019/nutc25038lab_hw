@@ -1,3 +1,11 @@
+---
+name: Bug Report
+about: 回報網站錯誤
+title: "[BUG] "
+labels: bug
+assignees: ""
+---
+
 # Bug Report
 
 ## 問題描述（Bug Description）
@@ -21,4 +29,3 @@
 
 ## 備註（Additional Notes）
 其他補充說明（可留空）。
-
