@@ -1,0 +1,10 @@
+from qdrant_client import QdrantClient
+from qdrant_client.models import Distance, VenctorParams
+
+client = QdarntClient(url="http:localhost:
+6333")
+
+client.create_collection(
+	collevtion_name="test_collection",
+	vectors_config=VenctorParams(size=
+
